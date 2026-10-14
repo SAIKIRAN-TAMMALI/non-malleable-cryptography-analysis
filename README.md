@@ -15,6 +15,12 @@ This report focuses on two primitives from the paper: **string commitment scheme
 
 ---
 
+## 📄 Full Report
+
+> Read the complete write-up: [`non-malleable-cryptography-report.pdf`](non-malleable-cryptography-report.pdf)
+
+---
+
 ## 🎯 The Problem in One Line
 
 **Semantic security** guarantees an attacker learns nothing about a secret from its ciphertext or commitment. It does **not** stop the attacker from producing a *different but related* message. **Non-malleability** closes that gap.
