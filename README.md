@@ -88,9 +88,8 @@ This report focuses on two primitives from the paper: **string commitment scheme
 
 ```
 non-malleable-cryptography-analysis/
-├── README.md                                   ← this file
-└── reports/
-    └── non-malleable-cryptography-report.pdf   ← full report (definitions, constructions, limitations)
+├── README.md                               ← this file
+└── non-malleable-cryptography-report.pdf   ← full report (definitions, constructions, limitations)
 ```
 
 ---
